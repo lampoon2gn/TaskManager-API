@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-07-10T18:43:46.7018383Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "WebApiPractice20200710123335ResourceGroup"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "9e601994-d66a-4669-bd2b-4a5afcb7c9bf"
+    }
+  }
+}
